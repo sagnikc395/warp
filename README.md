@@ -1,3 +1,3 @@
-## redger 
+## warp
 
-An ledger like CLI based expense tracking application written in Rust.
+warp is a simple cli tool to generate synopsis for a large amount of domain specific knowledge.
