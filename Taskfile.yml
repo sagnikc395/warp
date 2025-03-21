@@ -20,4 +20,4 @@ tasks:
       - go build -o dist/warp -ldflags="-s -w" main.go
   run:
     cmds:
-      - go run main.go
+      - go run ./main.go ./views.go ./controller.go ./errors.go ./model.go
